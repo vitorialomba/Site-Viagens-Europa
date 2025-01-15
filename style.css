@@ -1,0 +1,30 @@
+
+
+header{
+    background-color: #1b4d3e;
+}
+
+h1{
+    font-size: 44px;
+    color: #303030;
+    padding: 15PX;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 500;
+}
+
+
+
+.videos {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0; /* opcional */
+}
+
+
